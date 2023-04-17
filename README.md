@@ -5,7 +5,7 @@ R program is using to clean the data and for big data to analyse.
 Aim: To analyze the performance of Hollywood movies 
 Data: Title, genre, studio, profitability and ratings for movies released 2007-2012.
 Source: InformationIsBeautiful.net ![image](https://user-images.githubusercontent.com/129103686/232570696-1c724f7d-0c87-41e9-a162-5ac010e9432b.png)
-I uaing the following steps to clean the data and drawn the graphLoad data, Load library, install.packages("tidyverse"), Check for missing values, Drop missing values,Check for outliers using a boxplot,Remove outliers in 'Profitability',Remove outliers in 'Worldwide.Gross,Export clean data.
+###I uaing the following steps to clean the data and drawn the graphLoad data, Load library, install.packages("tidyverse"), Check for missing values, Drop missing values,Check for outliers using a boxplot,Remove outliers in 'Profitability',Remove outliers in 'Worldwide.Gross,Export clean data.
 
 ![image](https://user-images.githubusercontent.com/129103686/232574543-90654c20-63ae-4f30-8d3d-4ecdc6f0dc25.png)
 
