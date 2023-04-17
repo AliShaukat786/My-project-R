@@ -1,4 +1,4 @@
-# My-project-R
+# R programming(Hollywood movie)
 
 Aim of R progam, R is a programming language. R is often used for statistical computing and graphical presentation to analyze and visualize data.
 R program is using to clean the data and also using to analyse the big data.
