@@ -1,6 +1,6 @@
 # R programming(Hollywood movie)
 
-Aim of R progam, R is a programming language. R is often used for statistical computing and graphical presentation to analyze and visualize data.
+Aim of R progam: R is a programming language. R is often used for statistical computing and graphical presentation to analyze and visualize data.
 R program is using to clean the data and also using to analyse the big data.
 Aim: To analyze the performance of Hollywood movies 
 Data: Title, genre, studio, profitability and ratings for movies released 2007-2012.
